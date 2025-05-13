@@ -146,5 +146,3 @@ docker-compose down -v
 ```
 
 ---
-
-Ce projet démontre l'utilisation de Docker pour créer des environnements de développement isolés et reproductibles. Il illustre la progression depuis une simple application conteneurisée jusqu'à un système multi-conteneurs orchestré, configurable et avec persistance des données.
