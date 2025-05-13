@@ -12,7 +12,7 @@ Le projet est organisé en trois parties :
 
 ## TP2 - Conteneuriser une application Node.js avec Docker
 
-Une simple application Express qui affiche un message dans le navigateur.
+Une application Express qui affiche un message dans le navigateur.
 
 ![Capture d'écran de l'application TP2 en fonctionnement](screenshoots/Tp1.jpg)
 
@@ -121,8 +121,6 @@ Une version améliorée du TP3 qui utilise des variables d'environnement pour pe
    docker exec -it hello-node-postgres-env-db-1 psql -U root -d mydb
    SELECT * FROM test;
    ```
-
-   [Capture d'écran du test]
 
    ![Capture d'écran du test](screenshoots/Test.jpg)
 
